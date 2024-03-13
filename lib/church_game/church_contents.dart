@@ -100,10 +100,9 @@ final List<GameContents> churchDisco = [
   GameContents(name: '찬송', index: '44'),
   GameContents(name: '소망', index: '45'),
   GameContents(name: '얼굴', index: '46'),
-  GameContents(name: '갈급(갈망)', index: '47'),
-  GameContents(name: '창조', index: '48'),
-  GameContents(name: '모든', index: '49'),
-  GameContents(name: '슬픔', index: '50')
+  GameContents(name: '창조', index: '47'),
+  GameContents(name: '모든', index: '48'),
+  GameContents(name: '슬픔', index: '49')
 ];
 
 final List<GameContents> churchCaptain = [
